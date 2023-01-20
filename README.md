@@ -1,7 +1,7 @@
 # PowerBI-Projects
 
 ### Repository description:
-Here you can find a list with all the projects building using the platform PowerBI
+Here you can find a list of all the projects I’ve built using the PowerBI platform
 
 ### Hard Skills:
 
